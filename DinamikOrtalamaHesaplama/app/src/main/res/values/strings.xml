@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ortalama Hesaplama</string>
+    <string name="btn_Name">Ekle</string>
+    <string name="btn_Hesapla">Hesapla</string>
+    <string name="btn_Sil">Sil</string>
+    <string name="hint_ders">Ders Adı</string>
+</resources>
